@@ -29,7 +29,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaddamnur&layout=compact)<br>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaddamnur&layout=compact)<br> -->
 ![Muhammad Saddam Nur GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadsaddamnur&show_icons=true&theme=vue)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadsaddamnur&theme=vue&date_format=M%20j%5B%2C%20Y%5D)
 
