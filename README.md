@@ -7,8 +7,8 @@ hi, im Saddam 🗿.
 
 @@ +62 netizen 🇮🇩 @@
 + living in Jakarta, Indonesia.
-- Specialize in Dart Side 
-! Flutter Developer
+- specialize in Dart Side 
+! flutter Developer
 # dart, kotlin, java, swift, javascript, etc.
 
 
